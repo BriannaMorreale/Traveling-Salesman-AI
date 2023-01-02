@@ -1,1 +1,2 @@
 # Traveling-Salesman-AI
+Traveling Salesman is a common artificial intelligence problem that looks at the shortest and best distance from city to city. When the program above is played, a GUI appears with dots representing multiple cities. When you click the "Search" button, it will use the algorithm created in our class to find the shortest/best path to take between each place. Most of this was done in class by the professor, but we had to figure out the search algorithm. 
